@@ -25,7 +25,7 @@ jobs:
         run: nuget sources Add -Name "GPR" -Source https://nuget.pkg.github.com/s-kato-vish/index.json -UserName s-kato-vish -Password ${{ secrets.GITHUB_TOKEN }}
 
       - name: step2
-        run: dotnet pack --output .\artifacts --configuration Release
+        run: dotnet pack .\VishKgGithubPackagesTestKato\VishKgGithubPackagesTestKato.csproj --output .\artifacts --configuration Release
 
       - name: step3
         run: nuget push ".\artifacts\" -Source "GPR" -SkipDuplicate
