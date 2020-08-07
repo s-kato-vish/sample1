@@ -1,0 +1,31 @@
+name: Deploy to staging environment
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  packages-test:
+    runs-on: windows-latest
+    name: PackageDeoloy
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Setup NuGet
+        uses: NuGet/setup-nuget@v1.0.2
+        with:
+          nuget-api-key: ${{ secrets.GITHUB_TOKEN }}
+          nuget-version: latest
+
+      - name: Use .NET 3.0
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 3.1.x
+      - name: step1
+        run: nuget sources Add -Name "GPR" -Source https://nuget.pkg.github.com/s-kato-vish/index.json -UserName s-kato-vish -Password ${{ secrets.GITHUB_TOKEN }}
+
+      - name: step2
+        run: dotnet pack --output .\artifacts --configuration Release
+
+      - name: step3
+        run: nuget push ".\artifacts\" -Source "GPR" -SkipDuplicate

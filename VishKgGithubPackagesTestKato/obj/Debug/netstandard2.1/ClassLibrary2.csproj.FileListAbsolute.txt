@@ -1,0 +1,16 @@
+C:\Users\s-kato\01_PG\buscatch\kindergarten\kg-BCS.Kindergarten.Staffshift.OutputForm\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.1\ClassLibrary2.deps.json
+C:\Users\s-kato\01_PG\buscatch\kindergarten\kg-BCS.Kindergarten.Staffshift.OutputForm\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.1\ClassLibrary2.dll
+C:\Users\s-kato\01_PG\buscatch\kindergarten\kg-BCS.Kindergarten.Staffshift.OutputForm\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.1\ClassLibrary2.pdb
+C:\Users\s-kato\01_PG\buscatch\kindergarten\kg-BCS.Kindergarten.Staffshift.OutputForm\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\s-kato\01_PG\buscatch\kindergarten\kg-BCS.Kindergarten.Staffshift.OutputForm\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\s-kato\01_PG\buscatch\kindergarten\kg-BCS.Kindergarten.Staffshift.OutputForm\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.AssemblyInfo.cs
+C:\Users\s-kato\01_PG\buscatch\kindergarten\kg-BCS.Kindergarten.Staffshift.OutputForm\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.dll
+C:\Users\s-kato\01_PG\buscatch\kindergarten\kg-BCS.Kindergarten.Staffshift.OutputForm\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.pdb
+C:\Users\s-kato\01_PG\buscatch\kindergarten\testPackages\ClassLibrary2\bin\Debug\netstandard2.1\ClassLibrary2.deps.json
+C:\Users\s-kato\01_PG\buscatch\kindergarten\testPackages\ClassLibrary2\bin\Debug\netstandard2.1\ClassLibrary2.dll
+C:\Users\s-kato\01_PG\buscatch\kindergarten\testPackages\ClassLibrary2\bin\Debug\netstandard2.1\ClassLibrary2.pdb
+C:\Users\s-kato\01_PG\buscatch\kindergarten\testPackages\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\s-kato\01_PG\buscatch\kindergarten\testPackages\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\s-kato\01_PG\buscatch\kindergarten\testPackages\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.AssemblyInfo.cs
+C:\Users\s-kato\01_PG\buscatch\kindergarten\testPackages\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.dll
+C:\Users\s-kato\01_PG\buscatch\kindergarten\testPackages\ClassLibrary2\obj\Debug\netstandard2.1\ClassLibrary2.pdb
